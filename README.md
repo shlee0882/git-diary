@@ -1,4 +1,4 @@
-#### git-diary git 오토커밋 스케줄링
+### git-diary git 오토커밋 스케줄링
 
 
 - 매일매일 일기장형식의 md파일이 git-diary 원격저장소에 오토커밋 푸시됩니다.
